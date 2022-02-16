@@ -1,0 +1,1 @@
+NDVI_Oct18_Mar19.grid is an Australian 5km raster of average NDVI between Oct18 and Mar19. Data obtained from BOM

@@ -1,0 +1,2 @@
+ports.csv contains counts of containers entering each Australian port in 2018. Data are derived from Waterline 65 (https://www.bitre.gov.au/publications/2019/waterline-65; https://www.bitre.gov.au/sites/default/files/documents/water_65_timeSeries.zip). 
+Data can be extracted using theparse_port_data.R script.
