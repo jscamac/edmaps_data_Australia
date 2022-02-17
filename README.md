@@ -15,4 +15,8 @@ In addition to this, additional pathways have been added to edmaps. Details abou
 For details of how to run edmaps please visit the [edmap repository](https://github.com/jscamac/edmaps). 
 
 
+**NOTE:**
+The user input workbook `parameters.xlsx` contains a prefilled example. The parameters within the species sheet are illustrative only and should not be treated as definitive estimates. 
+
+
 
