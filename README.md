@@ -16,7 +16,7 @@ For details of how to run edmaps please visit the [edmap repository](https://git
 
 
 **NOTE:**
-The user input workbook `parameters.xlsx` contains a prefilled example. The parameters within the species sheet are illustrative only and should not be treated as definitive estimates.
+The user input workbook `parameters.xlsx` contains a prefilled example. The parameters within the species sheet are illustrative only and should not be treated as definitive estimates. As some example threats contain many GBIF records, we recommend that users add their GBIF credentials to the global parameters sheet prior to running.
 
 
 
