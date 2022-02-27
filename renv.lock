@@ -522,15 +522,15 @@
     },
     "edmaps": {
       "Package": "edmaps",
-      "Version": "1.10.1",
+      "Version": "1.11.0",
       "Source": "GitHub",
       "RemoteType": "github",
       "RemoteHost": "api.github.com",
       "RemoteUsername": "jscamac",
       "RemoteRepo": "edmaps",
       "RemoteRef": "master",
-      "RemoteSha": "5f66587d4237a822684ddf26105d795c9302e763",
-      "Hash": "5beaa4ba3ddc46dd64fb44cd06ee2250",
+      "RemoteSha": "1346194f0b46fe929b68b5aa43dfc957fe088f2e",
+      "Hash": "1fe7ca5d9b52f0bb338b9809a2969b50",
       "Requirements": [
         "alphahull",
         "countrycode",
